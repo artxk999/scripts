@@ -1,5 +1,0 @@
-local clouds = Workspace.Clouds:GetChildren()
-
-for _, part in ipairs(clouds) do
-    part.CanCollide = true
-end
