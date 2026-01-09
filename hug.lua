@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ExploiterGuy/Animations/refs/heads/main/Hug%20Machine%20v2.txt'))()
