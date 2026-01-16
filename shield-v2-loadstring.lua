@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/kira-lua/scripts/main/shield-v2.lua'))()
